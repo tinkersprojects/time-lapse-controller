@@ -1,4 +1,6 @@
 # programable Time Lapse Controller
+[https://tinkersprojects.com/](https://tinkersprojects.com/)
+
 This is a programable time lapse for a Go-Pro where tiles on the track deterands how it moves. The system can move in backward/forwards, rotate the camera and soon tilt the camera (when i get more time). It uses Lego train track as the track to guide it along and place programing tiles. The tiles are different colors which get a colour sensor reads and changes moving mode.
 
 Currently there are 4 colours with 4 different modes. Green (also starting mode) is full travel speed with no other movements. Blue is start rotation of camera. Yellow is half the speed. Red is stop. More colours will be added soon.
